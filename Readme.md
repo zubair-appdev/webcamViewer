@@ -13,7 +13,7 @@ ________________________________________
 - 	Qt Modules: Ensure multimedia and multimediawidgets are installed.
 - 	FFmpeg: This project requires the FFmpeg binary to encode video.
 2. Setting up FFmpeg
-- Since the app calls FFmpeg via the system command line, you must:
+- Since the app calls FFmpeg via the system command line using QProcess, you must:
 - Crucial: Place ffmpeg.exe in the same folder as your compiled .exe (e.g., inside your debug or release build folder).
 3. Compilation
 - Open the .pro file in Qt Creator.
