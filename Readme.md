@@ -19,7 +19,7 @@ ________________________________________
 - Open the .pro file in Qt Creator.
 - Run qmake.
 - Build (Ctrl+B) and Run (Ctrl+R).
-- For application usage find screenshots directory also.
+- For application usage find screenshots directory.
 ________________________________________
 🕹 Features
 - Hardware Detection: Automatically populates a list of available system cameras.
